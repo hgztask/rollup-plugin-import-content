@@ -1,0 +1,16 @@
+{
+  "name": "rollup-plugin-import-content",
+  "version": "1.0.0",
+  "description": "rollup导入文件内容插件",
+  "main": "src/index.js",
+  "type": "module",
+  "author": "'寒鸽子' <'byhgz@qq.com'>",
+  "license": "MIT",
+  "private": false,
+  "keywords": [
+    "rollup",
+    "rollup-plugin",
+    "rollup-plugin-import-content"
+  ],
+  "homepage": "https://space.bilibili.com/473239155"
+}
