@@ -1,6 +1,17 @@
 # rollup-plugin-import-content
 ## rollup导入文件内容插件
 
+### 安装
+
+```shell
+## npm安装
+npm install rollup-plugin-import-content --save
+
+## yarn安装
+yarn add rollup-plugin-import-content
+
+```
+
 ### 使用案例
 
 ```javascript
