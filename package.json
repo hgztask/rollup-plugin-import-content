@@ -12,5 +12,12 @@
     "rollup-plugin",
     "rollup-plugin-import-content"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hgztask/rollup-plugin-import-content.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hgztask/rollup-plugin-import-content/issues"
+  },
   "homepage": "https://space.bilibili.com/473239155"
 }
