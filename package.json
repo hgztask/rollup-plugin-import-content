@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "type": "module",
   "author": "'寒鸽子' <'byhgz@qq.com'>",
-  "license": "MIT",
+  "license": "Apache",
   "private": false,
   "keywords": [
     "rollup",
