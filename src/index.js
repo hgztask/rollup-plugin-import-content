@@ -18,6 +18,10 @@ export default function importContent(options = {
                     return "export default " + "`" + readFile + "`";
                 }
             }
+            if (id.endsWith('.json')) {
+                const content = await fsp.readFile(id, {encoding: 'utf-8'});
+                return `export default ${content}`
+            }
             return null;
         }
     }
